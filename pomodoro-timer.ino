@@ -1,3 +1,5 @@
+// Board: Adafruit ItsyBitsy 32u4 3V 8 MHz
+
 #include <avr/sleep.h>
 
 const int timerOutPin = 11;
